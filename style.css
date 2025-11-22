@@ -35,12 +35,12 @@ a {
 }
 
 .bg-1 {
-    background-color: #fffdeb; /* light yellow */
+    background-color: #ffebeb; /* light pink  */
     color: #555555;
 }
 
 .bg-2 {
-    background-color: #ffebeb; /* light pink */
+    background-color: #e3c3c3; /* darker pink */
     color: #ffffff;
 }
 
